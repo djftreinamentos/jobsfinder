@@ -1,0 +1,23 @@
+{
+  "name": "jobsfinder",
+  "version": "1.0.0",
+  "description": "Jobs Finder is a base project to practice the development in the HIgh Value Developer Program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djftreinamentos/jobsfinder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djftreinamentos/jobsfinder/issues"
+  },
+  "homepage": "https://github.com/djftreinamentos/jobsfinder#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
