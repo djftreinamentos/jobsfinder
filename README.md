@@ -3,4 +3,4 @@ Jobs Finder is a base project to practice the development in the HIgh Value Deve
 
 ## Developers
 
-Felipe
+Felipe R. Oliveira
